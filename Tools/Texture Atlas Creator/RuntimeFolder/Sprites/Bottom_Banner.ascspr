@@ -1,0 +1,6 @@
+<General>
+	<Texture>Bottom_Banner</Texture>
+	<TextureAtlas>Atlases/TextureAtlasCreatorAtlas.ascatl</TextureAtlas>
+	<Width>1280</Width>
+	<Height>29</Height>
+</General>

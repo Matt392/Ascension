@@ -1,0 +1,6 @@
+<General>
+	<JumpPower>25</JumpPower>
+	<RunSpeed>8</RunSpeed>
+	<FartOffsetX>-1</FartOffsetX>
+	<FartOffsetY>0</FartOffsetY>
+</General>

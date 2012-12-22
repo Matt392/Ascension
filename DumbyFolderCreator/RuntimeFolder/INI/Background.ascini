@@ -1,0 +1,8 @@
+<General>
+	<FarBufferMin>1.00</FarBufferMin>
+	<FarBufferMax>6.00</FarBufferMax>
+	<FarScrollMod>0.8</FarScrollMod>
+	<NearBufferMin>6.00</NearBufferMin>
+	<NearBufferMax>12.00</NearBufferMax>
+	<NearScrollMod>0.4</NearScrollMod>
+</General>

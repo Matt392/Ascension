@@ -1,0 +1,620 @@
+<General>
+	<Texture>Atlases/DangerBallsAtlas.dds</Texture>
+	<Count>88</Count>
+</General>
+<Texture0>
+	<Name>Component1</Name>
+	<TL>1471</TL>
+	<TR>1535</TR>
+	<BL>160</BL>
+	<BR>224</BR>
+</Texture0>
+<Texture1>
+	<Name>Component2</Name>
+	<TL>1535</TL>
+	<TR>1599</TR>
+	<BL>160</BL>
+	<BR>288</BR>
+</Texture1>
+<Texture2>
+	<Name>Component3</Name>
+	<TL>1599</TL>
+	<TR>1727</TR>
+	<BL>160</BL>
+	<BR>224</BR>
+</Texture2>
+<Texture3>
+	<Name>Dodad1</Name>
+	<TL>1599</TL>
+	<TR>1663</TR>
+	<BL>224</BL>
+	<BR>288</BR>
+</Texture3>
+<Texture4>
+	<Name>Dodad2</Name>
+	<TL>1728</TL>
+	<TR>1792</TR>
+	<BL>160</BL>
+	<BR>224</BR>
+</Texture4>
+<Texture5>
+	<Name>Dodad3</Name>
+	<TL>1663</TL>
+	<TR>1727</TR>
+	<BL>224</BL>
+	<BR>288</BR>
+</Texture5>
+<Texture6>
+	<Name>PowerUp1</Name>
+	<TL>1967</TL>
+	<TR>2031</TR>
+	<BL>64</BL>
+	<BR>128</BR>
+</Texture6>
+<Texture7>
+	<Name>PowerUp2</Name>
+	<TL>1791</TL>
+	<TR>1855</TR>
+	<BL>224</BL>
+	<BR>288</BR>
+</Texture7>
+<Texture8>
+	<Name>PowerUp3</Name>
+	<TL>1967</TL>
+	<TR>2031</TR>
+	<BL>0</BL>
+	<BR>64</BR>
+</Texture8>
+<Texture9>
+	<Name>LeftEnd</Name>
+	<TL>1791</TL>
+	<TR>1855</TR>
+	<BL>160</BL>
+	<BR>224</BR>
+</Texture9>
+<Texture10>
+	<Name>RightEnd</Name>
+	<TL>1727</TL>
+	<TR>1791</TR>
+	<BL>224</BL>
+	<BR>288</BR>
+</Texture10>
+<Texture11>
+	<Name>StartPos</Name>
+	<TL>1471</TL>
+	<TR>1535</TR>
+	<BL>224</BL>
+	<BR>288</BR>
+</Texture11>
+<Texture12>
+	<Name>DeepBackground</Name>
+	<TL>1487</TL>
+	<TR>1999</TR>
+	<BL>653</BL>
+	<BR>994</BR>
+</Texture12>
+<Texture13>
+	<Name>Fingerling_Stand_0</Name>
+	<TL>1</TL>
+	<TR>193</TR>
+	<BL>0</BL>
+	<BR>160</BR>
+</Texture13>
+<Texture14>
+	<Name>Fingerling_Stand_1</Name>
+	<TL>160</TL>
+	<TR>352</TR>
+	<BL>0</BL>
+	<BR>160</BR>
+</Texture14>
+<Texture15>
+	<Name>Fingerling_Stand_2</Name>
+	<TL>322</TL>
+	<TR>514</TR>
+	<BL>0</BL>
+	<BR>160</BR>
+</Texture15>
+<Texture16>
+	<Name>Fingerling_Stand_3</Name>
+	<TL>483</TL>
+	<TR>675</TR>
+	<BL>0</BL>
+	<BR>160</BR>
+</Texture16>
+<Texture17>
+	<Name>Fingerling_Stand_4</Name>
+	<TL>640</TL>
+	<TR>832</TR>
+	<BL>0</BL>
+	<BR>160</BR>
+</Texture17>
+<Texture18>
+	<Name>Fingerling_Stand_5</Name>
+	<TL>813</TL>
+	<TR>1005</TR>
+	<BL>0</BL>
+	<BR>160</BR>
+</Texture18>
+<Texture19>
+	<Name>Fingerling_Stand_6</Name>
+	<TL>972</TL>
+	<TR>1164</TR>
+	<BL>0</BL>
+	<BR>160</BR>
+</Texture19>
+<Texture20>
+	<Name>Fingerling_Stand_7</Name>
+	<TL>1132</TL>
+	<TR>1324</TR>
+	<BL>0</BL>
+	<BR>160</BR>
+</Texture20>
+<Texture21>
+	<Name>Fingerling_Stand_8</Name>
+	<TL>1292</TL>
+	<TR>1484</TR>
+	<BL>0</BL>
+	<BR>160</BR>
+</Texture21>
+<Texture22>
+	<Name>Fingerling_Stand_9</Name>
+	<TL>1453</TL>
+	<TR>1645</TR>
+	<BL>0</BL>
+	<BR>160</BR>
+</Texture22>
+<Texture23>
+	<Name>Fingerling_Stand_10</Name>
+	<TL>1617</TL>
+	<TR>1809</TR>
+	<BL>0</BL>
+	<BR>160</BR>
+</Texture23>
+<Texture24>
+	<Name>Fingerling_Stand_11</Name>
+	<TL>1776</TL>
+	<TR>1968</TR>
+	<BL>0</BL>
+	<BR>160</BR>
+</Texture24>
+<Texture25>
+	<Name>Fingerling_Stand_12</Name>
+	<TL>2</TL>
+	<TR>194</TR>
+	<BL>160</BL>
+	<BR>320</BR>
+</Texture25>
+<Texture26>
+	<Name>Fingerling_Stand_13</Name>
+	<TL>163</TL>
+	<TR>355</TR>
+	<BL>160</BL>
+	<BR>320</BR>
+</Texture26>
+<Texture27>
+	<Name>Fingerling_Stand_14</Name>
+	<TL>320</TL>
+	<TR>512</TR>
+	<BL>160</BL>
+	<BR>320</BR>
+</Texture27>
+<Texture28>
+	<Name>Fingerling_Stand_15</Name>
+	<TL>493</TL>
+	<TR>685</TR>
+	<BL>160</BL>
+	<BR>320</BR>
+</Texture28>
+<Texture29>
+	<Name>Fingerling_Stand_16</Name>
+	<TL>653</TL>
+	<TR>845</TR>
+	<BL>160</BL>
+	<BR>320</BR>
+</Texture29>
+<Texture30>
+	<Name>Fingerling_Stand_17</Name>
+	<TL>813</TL>
+	<TR>1005</TR>
+	<BL>160</BL>
+	<BR>320</BR>
+</Texture30>
+<Texture31>
+	<Name>Fingerling_Stand_18</Name>
+	<TL>972</TL>
+	<TR>1164</TR>
+	<BL>160</BL>
+	<BR>320</BR>
+</Texture31>
+<Texture32>
+	<Name>Fingerling_Stand_19</Name>
+	<TL>1133</TL>
+	<TR>1325</TR>
+	<BL>160</BL>
+	<BR>320</BR>
+</Texture32>
+<Texture33>
+	<Name>Fingerling_Stand_20</Name>
+	<TL>1281</TL>
+	<TR>1473</TR>
+	<BL>160</BL>
+	<BR>320</BR>
+</Texture33>
+<Texture34>
+	<Name>Fingerling_Stand_21</Name>
+	<TL>0</TL>
+	<TR>192</TR>
+	<BL>320</BL>
+	<BR>480</BR>
+</Texture34>
+<Texture35>
+	<Name>Fingerling_Stand_22</Name>
+	<TL>162</TL>
+	<TR>354</TR>
+	<BL>320</BL>
+	<BR>480</BR>
+</Texture35>
+<Texture36>
+	<Name>Fingerling_Stand_23</Name>
+	<TL>323</TL>
+	<TR>515</TR>
+	<BL>320</BL>
+	<BR>480</BR>
+</Texture36>
+<Texture37>
+	<Name>Fingerling_Run_0</Name>
+	<TL>1</TL>
+	<TR>193</TR>
+	<BL>480</BL>
+	<BR>640</BR>
+</Texture37>
+<Texture38>
+	<Name>Fingerling_Run_1</Name>
+	<TL>160</TL>
+	<TR>352</TR>
+	<BL>480</BL>
+	<BR>640</BR>
+</Texture38>
+<Texture39>
+	<Name>Fingerling_Run_2</Name>
+	<TL>322</TL>
+	<TR>514</TR>
+	<BL>480</BL>
+	<BR>640</BR>
+</Texture39>
+<Texture40>
+	<Name>Fingerling_Run_3</Name>
+	<TL>480</TL>
+	<TR>672</TR>
+	<BL>480</BL>
+	<BR>640</BR>
+</Texture40>
+<Texture41>
+	<Name>Fingerling_Run_4</Name>
+	<TL>638</TL>
+	<TR>830</TR>
+	<BL>480</BL>
+	<BR>640</BR>
+</Texture41>
+<Texture42>
+	<Name>Fingerling_Run_5</Name>
+	<TL>796</TL>
+	<TR>988</TR>
+	<BL>480</BL>
+	<BR>640</BR>
+</Texture42>
+<Texture43>
+	<Name>Fingerling_Run_6</Name>
+	<TL>955</TL>
+	<TR>1147</TR>
+	<BL>480</BL>
+	<BR>640</BR>
+</Texture43>
+<Texture44>
+	<Name>Fingerling_Run_7</Name>
+	<TL>1121</TL>
+	<TR>1313</TR>
+	<BL>480</BL>
+	<BR>640</BR>
+</Texture44>
+<Texture45>
+	<Name>Fingerling_Run_8</Name>
+	<TL>1279</TL>
+	<TR>1471</TR>
+	<BL>480</BL>
+	<BR>640</BR>
+</Texture45>
+<Texture46>
+	<Name>Fingerling_Run_9</Name>
+	<TL>1441</TL>
+	<TR>1633</TR>
+	<BL>480</BL>
+	<BR>640</BR>
+</Texture46>
+<Texture47>
+	<Name>Fingerling_Run_10</Name>
+	<TL>1598</TL>
+	<TR>1790</TR>
+	<BL>480</BL>
+	<BR>640</BR>
+</Texture47>
+<Texture48>
+	<Name>Fingerling_Run_11</Name>
+	<TL>1756</TL>
+	<TR>1948</TR>
+	<BL>480</BL>
+	<BR>640</BR>
+</Texture48>
+<Texture49>
+	<Name>Fingerling_Run_12</Name>
+	<TL>0</TL>
+	<TR>192</TR>
+	<BL>640</BL>
+	<BR>800</BR>
+</Texture49>
+<Texture50>
+	<Name>Fingerling_Run_13</Name>
+	<TL>160</TL>
+	<TR>352</TR>
+	<BL>640</BL>
+	<BR>800</BR>
+</Texture50>
+<Texture51>
+	<Name>Fingerling_Fall_0</Name>
+	<TL>480</TL>
+	<TR>672</TR>
+	<BL>320</BL>
+	<BR>480</BR>
+</Texture51>
+<Texture52>
+	<Name>Fingerling_Fall_1</Name>
+	<TL>669</TL>
+	<TR>861</TR>
+	<BL>320</BL>
+	<BR>480</BR>
+</Texture52>
+<Texture53>
+	<Name>Fingerling_Fall_2</Name>
+	<TL>830</TL>
+	<TR>1022</TR>
+	<BL>320</BL>
+	<BR>480</BR>
+</Texture53>
+<Texture54>
+	<Name>Fingerling_Fall_3</Name>
+	<TL>989</TL>
+	<TR>1181</TR>
+	<BL>320</BL>
+	<BR>480</BR>
+</Texture54>
+<Texture55>
+	<Name>Fingerling_Fall_4</Name>
+	<TL>1149</TL>
+	<TR>1341</TR>
+	<BL>320</BL>
+	<BR>480</BR>
+</Texture55>
+<Texture56>
+	<Name>Fingerling_Jump_0</Name>
+	<TL>320</TL>
+	<TR>512</TR>
+	<BL>640</BL>
+	<BR>800</BR>
+</Texture56>
+<Texture57>
+	<Name>Fingerling_Jump_1</Name>
+	<TL>480</TL>
+	<TR>672</TR>
+	<BL>640</BL>
+	<BR>800</BR>
+</Texture57>
+<Texture58>
+	<Name>Fingerling_Jump_2</Name>
+	<TL>640</TL>
+	<TR>832</TR>
+	<BL>640</BL>
+	<BR>800</BR>
+</Texture58>
+<Texture59>
+	<Name>Fingerling_Jump_3</Name>
+	<TL>801</TL>
+	<TR>993</TR>
+	<BL>640</BL>
+	<BR>800</BR>
+</Texture59>
+<Texture60>
+	<Name>Fingerling_Jump_4</Name>
+	<TL>959</TL>
+	<TR>1151</TR>
+	<BL>640</BL>
+	<BR>800</BR>
+</Texture60>
+<Texture61>
+	<Name>Fingerling_Jump_5</Name>
+	<TL>1121</TL>
+	<TR>1313</TR>
+	<BL>640</BL>
+	<BR>800</BR>
+</Texture61>
+<Texture62>
+	<Name>Fingerling_Jump_6</Name>
+	<TL>1278</TL>
+	<TR>1470</TR>
+	<BL>640</BL>
+	<BR>800</BR>
+</Texture62>
+<Texture63>
+	<Name>Fingerling_Landing_0</Name>
+	<TL>0</TL>
+	<TR>192</TR>
+	<BL>800</BL>
+	<BR>960</BR>
+</Texture63>
+<Texture64>
+	<Name>Fingerling_Landing_1</Name>
+	<TL>192</TL>
+	<TR>384</TR>
+	<BL>800</BL>
+	<BR>960</BR>
+</Texture64>
+<Texture65>
+	<Name>Fingerling_Landing_2</Name>
+	<TL>385</TL>
+	<TR>577</TR>
+	<BL>800</BL>
+	<BR>960</BR>
+</Texture65>
+<Texture66>
+	<Name>Fingerling_Landing_3</Name>
+	<TL>577</TL>
+	<TR>769</TR>
+	<BL>800</BL>
+	<BR>960</BR>
+</Texture66>
+<Texture67>
+	<Name>Fingerling_Landing_4</Name>
+	<TL>768</TL>
+	<TR>960</TR>
+	<BL>800</BL>
+	<BR>960</BR>
+</Texture67>
+<Texture68>
+	<Name>Fingerling_Landing_5</Name>
+	<TL>959</TL>
+	<TR>1151</TR>
+	<BL>800</BL>
+	<BR>960</BR>
+</Texture68>
+<Texture69>
+	<Name>Fingerling_Landing_6</Name>
+	<TL>1151</TL>
+	<TR>1343</TR>
+	<BL>800</BL>
+	<BR>960</BR>
+</Texture69>
+<Texture70>
+	<Name>DoubleJump_Smaller0001</Name>
+	<TL>0</TL>
+	<TR>192</TR>
+	<BL>960</BL>
+	<BR>1120</BR>
+</Texture70>
+<Texture71>
+	<Name>DoubleJump_Smaller0002</Name>
+	<TL>193</TL>
+	<TR>385</TR>
+	<BL>960</BL>
+	<BR>1120</BR>
+</Texture71>
+<Texture72>
+	<Name>DoubleJump_Smaller0007</Name>
+	<TL>1151</TL>
+	<TR>1343</TR>
+	<BL>960</BL>
+	<BR>1120</BR>
+</Texture72>
+<Texture73>
+	<Name>DoubleJump_Smaller0003</Name>
+	<TL>385</TL>
+	<TR>577</TR>
+	<BL>960</BL>
+	<BR>1120</BR>
+</Texture73>
+<Texture74>
+	<Name>DoubleJump_Smaller0004</Name>
+	<TL>577</TL>
+	<TR>769</TR>
+	<BL>960</BL>
+	<BR>1120</BR>
+</Texture74>
+<Texture75>
+	<Name>DoubleJump_Smaller0005</Name>
+	<TL>768</TL>
+	<TR>960</TR>
+	<BL>960</BL>
+	<BR>1120</BR>
+</Texture75>
+<Texture76>
+	<Name>DoubleJump_Smaller0006</Name>
+	<TL>959</TL>
+	<TR>1151</TR>
+	<BL>960</BL>
+	<BR>1120</BR>
+</Texture76>
+<Texture77>
+	<Name>doubleJump_Fart_01</Name>
+	<TL>0</TL>
+	<TR>368</TR>
+	<BL>1120</BL>
+	<BR>1376</BR>
+</Texture77>
+<Texture78>
+	<Name>doubleJump_Fart_02</Name>
+	<TL>369</TL>
+	<TR>737</TR>
+	<BL>1120</BL>
+	<BR>1376</BR>
+</Texture78>
+<Texture79>
+	<Name>doubleJump_Fart_03</Name>
+	<TL>737</TL>
+	<TR>1105</TR>
+	<BL>1120</BL>
+	<BR>1376</BR>
+</Texture79>
+<Texture80>
+	<Name>doubleJump_Fart_04</Name>
+	<TL>1101</TL>
+	<TR>1469</TR>
+	<BL>1120</BL>
+	<BR>1376</BR>
+</Texture80>
+<Texture81>
+	<Name>doubleJump_Fart_05</Name>
+	<TL>1470</TL>
+	<TR>1838</TR>
+	<BL>1120</BL>
+	<BR>1376</BR>
+</Texture81>
+<Texture82>
+	<Name>doubleJump_Fart_06</Name>
+	<TL>0</TL>
+	<TR>368</TR>
+	<BL>1376</BL>
+	<BR>1632</BR>
+</Texture82>
+<Texture83>
+	<Name>doubleJump_Fart_07</Name>
+	<TL>369</TL>
+	<TR>737</TR>
+	<BL>1376</BL>
+	<BR>1632</BR>
+</Texture83>
+<Texture84>
+	<Name>Far_Background_0</Name>
+	<TL>1701</TL>
+	<TR>1916</TR>
+	<BL>293</BL>
+	<BR>478</BR>
+</Texture84>
+<Texture85>
+	<Name>Far_Background_1</Name>
+	<TL>1477</TL>
+	<TR>1692</TR>
+	<BL>293</BL>
+	<BR>478</BR>
+</Texture85>
+<Texture86>
+	<Name>Near_Background_0</Name>
+	<TL>1933</TL>
+	<TR>2033</TR>
+	<BL>168</BL>
+	<BR>248</BR>
+</Texture86>
+<Texture87>
+	<Name>Near_Background_1</Name>
+	<TL>1933</TL>
+	<TR>2033</TR>
+	<BL>248</BL>
+	<BR>328</BR>
+</Texture87>

@@ -1,0 +1,6 @@
+<General>
+	<Texture>Alpha</Texture>
+	<TextureAtlas>Atlases/AtlasTest.ascatl</TextureAtlas>
+	<Width>13.5625</Width>
+	<Height>15.3125</Height>
+</General>

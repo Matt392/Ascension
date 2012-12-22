@@ -1,0 +1,6 @@
+<General>
+	<Texture>Far_Background_1</Texture>
+	<TextureAtlas>Atlases/DeadPixelsAtlas.ascatl</TextureAtlas>
+	<Width>13.4375</Width>
+	<Height>11.5625</Height>
+</General>

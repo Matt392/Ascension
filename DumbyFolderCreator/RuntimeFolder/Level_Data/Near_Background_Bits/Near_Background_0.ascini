@@ -1,0 +1,5 @@
+<General>
+	<Sprite>Sprites\Near_Background_0.ascspr</Sprite>
+	<OffsetX>0.0f</OffsetX>
+	<OffsetY>-3.0f</OffsetY>
+</General>

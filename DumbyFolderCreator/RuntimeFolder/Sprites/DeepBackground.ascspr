@@ -1,0 +1,6 @@
+<General>
+	<Texture>DeepBackground</Texture>
+	<TextureAtlas>Atlases/DeadPixelsAtlas.ascatl</TextureAtlas>
+	<Width>30</Width>
+	<Height>20.5</Height>
+</General>

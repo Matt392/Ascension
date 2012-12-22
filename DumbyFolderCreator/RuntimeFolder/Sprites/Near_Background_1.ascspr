@@ -1,0 +1,6 @@
+<General>
+	<Texture>Near_Background_1</Texture>
+	<TextureAtlas>Atlases/DeadPixelsAtlas.ascatl</TextureAtlas>
+	<Width>6.25</Width>
+	<Height>5</Height>
+</General>

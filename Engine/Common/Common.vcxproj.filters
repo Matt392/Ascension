@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\INI">
+      <UniqueIdentifier>{1f86f0a6-124a-4641-a05b-81e9c286cb0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\INI">
+      <UniqueIdentifier>{9234bf13-30bb-4144-a43d-465a37aa19b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Math">
+      <UniqueIdentifier>{090f02e4-82c0-48c3-b08f-813a4c7b15b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\General">
+      <UniqueIdentifier>{10f697f7-4a61-42d5-ad70-43521d553ea9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\General">
+      <UniqueIdentifier>{543cd418-01df-4db7-9e8d-be98fa41bb70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Math">
+      <UniqueIdentifier>{be1a11ad-95aa-43e0-ba94-fcdab57ba8b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Memory">
+      <UniqueIdentifier>{42b8dd60-9497-48bf-846d-b1bb1df8c7ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Memory">
+      <UniqueIdentifier>{932c6ea3-faad-4615-be10-b3f0a56f91e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Debuging">
+      <UniqueIdentifier>{bb41b4e3-754c-41a7-9db4-08d7a555845c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Debuging">
+      <UniqueIdentifier>{8c01d574-de77-408c-8023-18d71b9c648d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Profiling">
+      <UniqueIdentifier>{3c2ff320-ccbc-410d-9b56-04d61225413d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Profiling">
+      <UniqueIdentifier>{2c562f34-ac59-4340-848d-2208a932fb2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Event System">
+      <UniqueIdentifier>{771adb29-dad6-44f1-b49b-f21b4118bf7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Event System">
+      <UniqueIdentifier>{c0fb1517-dec6-4e23-81c2-30eb30101e75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Event System\Events">
+      <UniqueIdentifier>{b00da075-3958-44ef-a095-80951f67e2a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Event System\Events">
+      <UniqueIdentifier>{d43235af-8aa6-4b37-bab2-1e989d60f6ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Interfaces">
+      <UniqueIdentifier>{8dd4d785-b1f1-406c-a87f-e546107ab3d9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ASCINIFile.h">
+      <Filter>Header Files\INI</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCINIManager.h">
+      <Filter>Header Files\INI</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCAssert.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCClock.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCConversions.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCFileIO.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCGenInc.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCMacros.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCGenTypes.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCVector2.h">
+      <Filter>Header Files\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCMemoryManagement.h">
+      <Filter>Header Files\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCDebuggingManager.h">
+      <Filter>Header Files\Debuging</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCRandNumGen.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCProfilingNode.h">
+      <Filter>Header Files\Profiling</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCProfilingSystem.h">
+      <Filter>Header Files\Profiling</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCIEvent.h">
+      <Filter>Header Files\Event System</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCIEventListener.h">
+      <Filter>Header Files\Event System</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCAnimEvent.h">
+      <Filter>Header Files\Event System\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCInputEvent.h">
+      <Filter>Header Files\Event System\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCKeyboardEvent.h">
+      <Filter>Header Files\Event System\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCEventManager.h">
+      <Filter>Header Files\Event System</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCRenderer.h">
+      <Filter>Header Files\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCVertexDeclaration.h">
+      <Filter>Header Files\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCTexture.h">
+      <Filter>Header Files\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCTextureManager.h">
+      <Filter>Header Files\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCShader.h">
+      <Filter>Header Files\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCShaderManager.h">
+      <Filter>Header Files\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCGameContext.h">
+      <Filter>Header Files\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCInputDevice.h">
+      <Filter>Header Files\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCInputStructs.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCMaths.h">
+      <Filter>Header Files\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCMatrix4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCFolder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCVertexBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCVideo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCVideoManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCFinalShutdownDelay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCGeneralFunctions.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCRemoteLogging.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCOutputWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCCMDEvent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCInputNames.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCIState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ASCINIFile.cpp">
+      <Filter>Source Files\INI</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCINIManager.cpp">
+      <Filter>Source Files\INI</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCAssert.cpp">
+      <Filter>Source Files\General</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCFileIO.cpp">
+      <Filter>Source Files\General</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCClock.cpp">
+      <Filter>Source Files\General</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCVector2.cpp">
+      <Filter>Source Files\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCMemoryManagement.cpp">
+      <Filter>Source Files\Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCDebuggingManager.cpp">
+      <Filter>Source Files\Debuging</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCRandNumGen.cpp">
+      <Filter>Source Files\General</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCProfilingNode.cpp">
+      <Filter>Source Files\Profiling</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCProfilingSystem.cpp">
+      <Filter>Source Files\Profiling</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCAnimEvent.cpp">
+      <Filter>Source Files\Event System\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCInputEvent.cpp">
+      <Filter>Source Files\Event System\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCKeyboardEvent.cpp">
+      <Filter>Source Files\Event System\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCEventManager.cpp">
+      <Filter>Source Files\Event System</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCMaths.cpp">
+      <Filter>Source Files\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCMatrix4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCFolder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCVideo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCVideoManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCFinalShutdownDelay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCGeneralFunctions.cpp">
+      <Filter>Source Files\General</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCRemoteLogging.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCOutputWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCCMDEvent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

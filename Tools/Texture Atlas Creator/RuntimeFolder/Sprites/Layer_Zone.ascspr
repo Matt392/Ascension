@@ -1,0 +1,6 @@
+<General>
+	<Texture>Layer_Zone</Texture>
+	<TextureAtlas>Atlases/TextureAtlasCreatorAtlas.ascatl</TextureAtlas>
+	<Width>148</Width>
+	<Height>1024</Height>
+</General>

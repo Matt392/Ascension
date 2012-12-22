@@ -1,0 +1,6 @@
+<General>
+	<Texture>PowerUp3</Texture>
+	<TextureAtlas>Atlases/DeadPixelsAtlas.ascatl</TextureAtlas>
+	<Width>2</Width>
+	<Height>2</Height>
+</General>

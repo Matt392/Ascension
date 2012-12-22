@@ -1,0 +1,22 @@
+<General>
+	<TextureCount>2</TextureCount>
+	<Texture_0>Atlases/AtlasTest_Alpha.png</Texture_0>
+	<Texture_1>Atlases/AtlasTest_Beta.png</Texture_1>
+	<Count>2</Count>
+</General>
+<Texture0>
+	<Name>Alpha</Name>
+	<Texture>0</Texture>
+	<TL>7</TL>
+	<TR>441</TR>
+	<BL>11</BL>
+	<BR>501</BR>
+</Texture0>
+<Texture1>
+	<Name>Beta</Name>
+	<Texture>1</Texture>
+	<TL>455</TL>
+	<TR>889</TR>
+	<BL>11</BL>
+	<BR>501</BR>
+</Texture1>

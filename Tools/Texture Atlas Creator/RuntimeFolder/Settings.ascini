@@ -1,0 +1,24 @@
+<General>
+	<WindowName>Ascension Window</WindowName>
+	<MaxRand>100000</MaxRand>
+</General>
+<Logging>
+	<RemoteLogging>false</RemoteLogging>
+	<RemoteLoggingName></RemoteLoggingName>
+</Logging>
+<Screen>
+	<Width>1280</Width>
+	<Height>1024</Height>
+	<DesignedWidth>1280</DesignedWidth>
+	<DesignedHeight>1024</DesignedHeight>
+	<Windowed>true</Windowed>
+	<DrawFrameRate>60</DrawFrameRate>
+</Screen>
+<Debugging>
+	<MaxDebugLines>32</MaxDebugLines>
+	<CMDBuffer>20</CMDBuffer>
+</Debugging>
+<Gravity>
+	<X>0.0</X>
+	<Y>98.0</Y>
+</Gravity>

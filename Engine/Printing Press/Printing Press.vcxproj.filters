@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\DX9">
+      <UniqueIdentifier>{ba050602-c1a7-46ae-b4d9-b241e8f0e92d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DX9">
+      <UniqueIdentifier>{3a170f38-385b-41fa-8a09-47f1295be660}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Sprite System">
+      <UniqueIdentifier>{80d68780-89ef-4338-8fd6-a021a9f9ff0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sprite System">
+      <UniqueIdentifier>{1263ccf6-de12-464f-a644-aa04ce12e772}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\General">
+      <UniqueIdentifier>{dbf114d6-139a-4566-ad85-e034158ab2d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\General">
+      <UniqueIdentifier>{fe1032e9-bc5f-4710-9d65-a38092e793d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sprite System\Anim">
+      <UniqueIdentifier>{c8999cba-75d4-4777-9c06-47135d79bdc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Sprite System\Anim">
+      <UniqueIdentifier>{9033e7cb-62d4-4171-9694-5e660b6c6c2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GLES2">
+      <UniqueIdentifier>{273220ee-9ed1-410a-919d-942bbf9e80ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GLES2">
+      <UniqueIdentifier>{5fc45cc0-4f5a-412a-ac69-9890f4520027}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\STB_Image">
+      <UniqueIdentifier>{97d3c933-2cd7-4714-8156-30cb06e67fca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\STB_Image">
+      <UniqueIdentifier>{09c686ce-e2c9-4086-afde-5909602a3553}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ASCDX9VertexDeclaration.h">
+      <Filter>Header Files\DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCDX9Renderer.h">
+      <Filter>Header Files\DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCDX9Texture.h">
+      <Filter>Header Files\DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCDX9TextureManager.h">
+      <Filter>Header Files\DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCDX9Shader.h">
+      <Filter>Header Files\DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCDX9ShaderManager.h">
+      <Filter>Header Files\DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCSpriteVertex.h">
+      <Filter>Header Files\Sprite System</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCSprite.h">
+      <Filter>Header Files\Sprite System</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCSpriteManager.h">
+      <Filter>Header Files\Sprite System</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCTextureAtlas.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCAnimSprite.h">
+      <Filter>Header Files\Sprite System\Anim</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCAnimTrack.h">
+      <Filter>Header Files\Sprite System\Anim</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCFont.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCDX9VertexBuffer.h">
+      <Filter>Header Files\DX9</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCGLES2Renderer.h">
+      <Filter>Header Files\GLES2</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCGLES2Shader.h">
+      <Filter>Header Files\GLES2</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCGLES2ShaderManager.h">
+      <Filter>Header Files\GLES2</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCGLES2VertexDeclaration.h">
+      <Filter>Header Files\GLES2</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCGLES2VertexBuffer.h">
+      <Filter>Header Files\GLES2</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCCamera.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCGLES2TextureManager.h">
+      <Filter>Header Files\GLES2</Filter>
+    </ClInclude>
+    <ClInclude Include="ASCGLES2Texture.h">
+      <Filter>Header Files\GLES2</Filter>
+    </ClInclude>
+    <ClInclude Include="STB_Image\stb_image.h">
+      <Filter>Header Files\STB_Image</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ASCDX9Renderer.cpp">
+      <Filter>Source Files\DX9</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCDX9VertexDeclaration.cpp">
+      <Filter>Source Files\DX9</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCDX9Texture.cpp">
+      <Filter>Source Files\DX9</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCDX9TextureManager.cpp">
+      <Filter>Source Files\DX9</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCDX9Shader.cpp">
+      <Filter>Source Files\DX9</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCDX9ShaderManager.cpp">
+      <Filter>Source Files\DX9</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCSpriteVertex.cpp">
+      <Filter>Source Files\Sprite System</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCSprite.cpp">
+      <Filter>Source Files\Sprite System</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCSpriteManager.cpp">
+      <Filter>Source Files\Sprite System</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCTextureAtlas.cpp">
+      <Filter>Source Files\General</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCAnimSprite.cpp">
+      <Filter>Source Files\Sprite System\Anim</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCAnimTrack.cpp">
+      <Filter>Source Files\Sprite System\Anim</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCFont.cpp">
+      <Filter>Source Files\General</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCDX9VertexBuffer.cpp">
+      <Filter>Source Files\DX9</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCGLES2Renderer.cpp">
+      <Filter>Source Files\GLES2</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCGLES2Shader.cpp">
+      <Filter>Source Files\GLES2</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCGLES2ShaderManager.cpp">
+      <Filter>Source Files\GLES2</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCGLES2VertexDeclaration.cpp">
+      <Filter>Source Files\GLES2</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCGLES2VertexBuffer.cpp">
+      <Filter>Source Files\GLES2</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCCamera.cpp">
+      <Filter>Source Files\General</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCGLES2TextureManager.cpp">
+      <Filter>Source Files\GLES2</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCGLES2Texture.cpp">
+      <Filter>Source Files\GLES2</Filter>
+    </ClCompile>
+    <ClCompile Include="STB_Image\stb_image.c">
+      <Filter>Source Files\STB_Image</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Printing Press.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,67 @@
+<General>
+	<Texture>Atlases/tacatlas.dds</Texture>
+	<Count>9</Count>
+</General>
+<Texture0>
+	<Name>Frame</Name>
+	<TL>0</TL>
+	<TR>1280</TR>
+	<BL>0</BL>
+	<BR>1024</BR>
+</Texture0>
+<Texture1>
+	<Name>tacbuttondown</Name>
+	<TL>1312</TL>
+	<TR>1568</TR>
+	<BL>32</BL>
+	<BR>96</BR>
+</Texture1>
+<Texture2>
+	<Name>tacbuttonnorm</Name>
+	<TL>1312</TL>
+	<TR>1568</TR>
+	<BL>128</BL>
+	<BR>192</BR>
+</Texture2>
+<Texture3>
+	<Name>tacbuttonover</Name>
+	<TL>1312</TL>
+	<TR>1568</TR>
+	<BL>224</BL>
+	<BR>288</BR>
+</Texture3>
+<Texture4>
+	<Name>textaddtexture</Name>
+	<TL>1312</TL>
+	<TR>1568</TR>
+	<BL>320</BL>
+	<BR>384</BR>
+</Texture4>
+<Texture5>
+	<Name>textexit</Name>
+	<TL>1312</TL>
+	<TR>1568</TR>
+	<BL>416</BL>
+	<BR>480</BR>
+</Texture5>
+<Texture6>
+	<Name>textload</Name>
+	<TL>1312</TL>
+	<TR>1568</TR>
+	<BL>512</BL>
+	<BR>576</BR>
+</Texture6>
+<Texture7>
+	<Name>textnew</Name>
+	<TL>1312</TL>
+	<TR>1568</TR>
+	<BL>608</BL>
+	<BR>672</BR>
+</Texture7>
+<Texture8>
+	<Name>textsave</Name>
+	<TL>1312</TL>
+	<TR>1568</TR>
+	<BL>704</BL>
+	<BR>768</BR>
+</Texture8>

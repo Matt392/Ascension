@@ -1,0 +1,6 @@
+<General>
+	<Texture>Banner_Button_Norm</Texture>
+	<TextureAtlas>Atlases/TextureAtlasCreatorAtlas.ascatl</TextureAtlas>
+	<Width>92</Width>
+	<Height>28</Height>
+</General>

@@ -1,0 +1,13 @@
+<General>
+	<Type>Box</Type>
+	<Sprite>Sprites\PowerUp2.ascspr</Sprite>
+	<Width>2</Width>
+	<Height>2</Height>
+	<OffsetX>0</OffsetX>
+	<OffsetY>0</OffsetY>
+	<Density>2</Density>
+	<Friction>0.0025</Friction>
+	<Restitution>0</Restitution>
+	<Dynamic>false</Dynamic>
+	<Sensor>true</Sensor>
+</General>

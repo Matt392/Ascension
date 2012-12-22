@@ -1,0 +1,13 @@
+      x
+     xx
+    xxx
+   xxxx
+  xxxxxxxxxxxx
+ xxxxxxxxxxxxx
+xxxxxxxxxxxxxx
+ xxxxxxxxxxxxx
+  xxxxxxxxxxxx
+   xxxx
+    xxx
+     xx
+      x

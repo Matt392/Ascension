@@ -1,0 +1,12 @@
+<General>
+	<Type>Shpere</Type>
+	<Sprite>Anim Sprites\Fingerling.animspr</Sprite>
+	<Width>0.8</Width>
+	<Height>0.65</Height>
+	<OffsetX>0</OffsetX>
+	<OffsetY>0</OffsetY>
+	<Density>2</Density>
+	<Friction>0.0025</Friction>
+	<Restitution>0</Restitution>
+	<Dynamic>true</Dynamic>
+</General>

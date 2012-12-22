@@ -1,0 +1,6 @@
+<General>
+	<Texture>Update All</Texture>
+	<TextureAtlas>Atlases/TextureAtlasCreatorAtlas.ascatl</TextureAtlas>
+	<Width>254</Width>
+	<Height>36</Height>
+</General>

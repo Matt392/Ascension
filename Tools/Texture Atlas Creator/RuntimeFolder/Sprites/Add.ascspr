@@ -1,0 +1,6 @@
+<General>
+	<Texture>Add</Texture>
+	<TextureAtlas>Atlases/TextureAtlasCreatorAtlas.ascatl</TextureAtlas>
+	<Width>93</Width>
+	<Height>28</Height>
+</General>

@@ -1,0 +1,5 @@
+<General>
+	<Sprite>Sprites\Far_Background_0.ascspr</Sprite>
+	<OffsetX>0.0f</OffsetX>
+	<OffsetY>-1.5f</OffsetY>
+</General>

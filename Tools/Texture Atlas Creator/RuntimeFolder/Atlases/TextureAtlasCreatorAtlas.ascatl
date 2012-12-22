@@ -1,0 +1,142 @@
+<General>
+	<TextureCount>2</TextureCount>
+	<Texture_0>TextureAtlasCreatorAtlas_0.png</Texture_0>
+	<Texture_1>TextureAtlasCreatorAtlas_1.png</Texture_1>
+	<Count>17</Count>
+</General>
+<Texture_0>
+	<Name>Add</Name>
+	<Texture>0</Texture>
+	<TL>5</TL>
+	<TR>98</TR>
+	<BL>5</BL>
+	<BR>33</BR>
+</Texture_0>
+<Texture_1>
+	<Name>Banner_Button_Down</Name>
+	<Texture>0</Texture>
+	<TL>107</TL>
+	<TR>200</TR>
+	<BL>6</BL>
+	<BR>34</BR>
+</Texture_1>
+<Texture_2>
+	<Name>Banner_Button_Norm</Name>
+	<Texture>0</Texture>
+	<TL>210</TL>
+	<TR>303</TR>
+	<BL>8</BL>
+	<BR>36</BR>
+</Texture_2>
+<Texture_3>
+	<Name>Banner_Button_Over</Name>
+	<Texture>0</Texture>
+	<TL>313</TL>
+	<TR>406</TR>
+	<BL>7</BL>
+	<BR>35</BR>
+</Texture_3>
+<Texture_4>
+	<Name>Big_Button_Down</Name>
+	<Texture>0</Texture>
+	<TL>12</TL>
+	<TR>268</TR>
+	<BL>44</BL>
+	<BR>80</BR>
+</Texture_4>
+<Texture_5>
+	<Name>Load</Name>
+	<Texture>0</Texture>
+	<TL>9</TL>
+	<TR>102</TR>
+	<BL>92</BL>
+	<BR>120</BR>
+</Texture_5>
+<Texture_6>
+	<Name>Layer_Zone</Name>
+	<Texture>0</Texture>
+	<TL>10</TL>
+	<TR>158</TR>
+	<BL>125</BL>
+	<BR>225</BR>
+</Texture_6>
+<Texture_7>
+	<Name>Bottom_Banner</Name>
+	<Texture>0</Texture>
+	<TL>108</TL>
+	<TR>208</TR>
+	<BL>85</BL>
+	<BR>114</BR>
+</Texture_7>
+<Texture_8>
+	<Name>Big_Button_Over</Name>
+	<Texture>0</Texture>
+	<TL>167</TL>
+	<TR>423</TR>
+	<BL>132</BL>
+	<BR>168</BR>
+</Texture_8>
+<Texture_9>
+	<Name>Big_Button_Norm</Name>
+	<Texture>0</Texture>
+	<TL>168</TL>
+	<TR>424</TR>
+	<BL>179</BL>
+	<BR>215</BR>
+</Texture_9>
+<Texture_10>
+	<Name>New</Name>
+	<Texture>1</Texture>
+	<TL>9</TL>
+	<TR>102</TR>
+	<BL>12</BL>
+	<BR>40</BR>
+</Texture_10>
+<Texture_11>
+	<Name>Remove</Name>
+	<Texture>1</Texture>
+	<TL>108</TL>
+	<TR>201</TR>
+	<BL>11</BL>
+	<BR>39</BR>
+</Texture_11>
+<Texture_12>
+	<Name>Save</Name>
+	<Texture>1</Texture>
+	<TL>211</TL>
+	<TR>304</TR>
+	<BL>11</BL>
+	<BR>39</BR>
+</Texture_12>
+<Texture_13>
+	<Name>Texture_List_Zone</Name>
+	<Texture>1</Texture>
+	<TL>10</TL>
+	<TR>266</TR>
+	<BL>45</BL>
+	<BR>145</BR>
+</Texture_13>
+<Texture_14>
+	<Name>Top_Banner</Name>
+	<Texture>1</Texture>
+	<TL>33</TL>
+	<TR>133</TR>
+	<BL>159</BL>
+	<BR>188</BR>
+</Texture_14>
+<Texture_15>
+	<Name>Update All</Name>
+	<Texture>1</Texture>
+	<TL>25</TL>
+	<TR>281</TR>
+	<BL>220</BL>
+	<BR>256</BR>
+</Texture_15>
+<Texture_16>
+	<Name>Update</Name>
+	<Texture>1</Texture>
+	<TL>27</TL>
+	<TR>283</TR>
+	<BL>275</BL>
+	<BR>311</BR>
+</Texture_16>

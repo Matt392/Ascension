@@ -1,0 +1,12 @@
+<General>
+	<Type>Box</Type>
+	<Sprite>Sprites\Component2.ascspr</Sprite>
+	<Width>2</Width>
+	<Height>4</Height>
+	<OffsetX>0</OffsetX>
+	<OffsetY>0</OffsetY>
+	<Density>2</Density>
+	<Friction>2</Friction>
+	<Restitution>0</Restitution>
+	<Dynamic>false</Dynamic>
+</General>

@@ -1,0 +1,46 @@
+//Vertecies
+#define X 0
+#define Y 1
+#define Z 2
+#define W 3
+//Colours
+#define R 0
+#define G 1
+#define B 2
+#define A 3
+
+attribute highp vec4 m_vPosition;
+attribute mediump vec4 m_vColour;
+attribute mediump vec2 m_vUVs;
+attribute mediump vec3 m_vTransRot;
+attribute mediump vec2 m_vScale;
+
+uniform mediump float m_fScreenRatio;
+
+varying mediump vec2 m_vFinalUV;
+varying mediump vec4 m_vFinalColour;
+
+void main(void)
+{
+	gl_Position = m_vPosition;
+	
+	/*Scaling*/
+	gl_Position[X] *= m_vScale[X];
+	gl_Position[Y] *= m_vScale[Y];
+	
+	/*Translations*/
+	gl_Position[X] += m_vTransRot[X];
+	gl_Position[Y] += m_vTransRot[Y];
+	
+	/*Rotations*/
+	float fOrigX = gl_Position[X];
+	float fOrigY = gl_Position[Y];
+	gl_Position[X] = (fOrigX * cos(m_vTransRot[Z])) - (fOrigY * sin(m_vTransRot[Z]));
+	gl_Position[Y] = (fOrigY * cos(m_vTransRot[Z])) + (fOrigX * sin(m_vTransRot[Z]));
+	
+	gl_Position[Y] *= -1.0;
+	
+	/*Copy values for pixel shader*/
+	m_vFinalColour = m_vColour;
+	m_vFinalUV = m_vUVs;
+}

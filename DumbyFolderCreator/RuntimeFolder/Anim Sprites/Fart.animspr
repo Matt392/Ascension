@@ -1,0 +1,32 @@
+<General>
+	<TextureAtlas>Atlases/DangerBallsAtlas.ascatl</TextureAtlas>
+	<Width>3.873</Width>
+	<Height>2.665</Height>
+	<AnimCount>1</AnimCount>
+	<IdleAnim>Fart</IdleAnim>
+</General>
+<Anim0>
+	<Name>Fart</Name>
+	<FrameCount>7</FrameCount>
+	<Frame0Image>doubleJump_Fart_01</Frame0Image>
+	<Frame0Time>0.05</Frame0Time>
+	<Event0Event></Frame0Event>
+	<Frame1Image>doubleJump_Fart_02</Frame1Image>
+	<Frame1Time>0.05</Frame1Time>
+	<Event1Event></Frame1Event>
+	<Frame2Image>doubleJump_Fart_03</Frame2Image>
+	<Frame2Time>0.05</Frame2Time>
+	<Event2Event></Frame2Event>
+	<Frame3Image>doubleJump_Fart_04</Frame3Image>
+	<Frame3Time>0.05</Frame3Time>
+	<Event3Event></Frame3Event>
+	<Frame4Image>doubleJump_Fart_05</Frame4Image>
+	<Frame4Time>0.05</Frame4Time>
+	<Event4Event></Frame4Event>
+	<Frame5Image>doubleJump_Fart_06</Frame5Image>
+	<Frame5Time>0.05</Frame5Time>
+	<Event5Event></Frame5Event>
+	<Frame6Image>doubleJump_Fart_07</Frame6Image>
+	<Frame6Time>0.05</Frame6Time>
+	<Frame6Event>FartEnd</Frame6Event>
+</Anim0>

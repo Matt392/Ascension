@@ -1,0 +1,550 @@
+<General>
+	<Texture>Atlases/DBInterfaceAtlas.png</Texture>
+	<Count>78</Count>
+</General>
+<Texture0>
+	<Name>Saboteur_Angry</Name>
+	<TL>9</TL>
+	<TR>153</TR>
+	<BL>614</BL>
+	<BR>762</BR>
+</Texture0>
+<Texture1>
+	<Name>Saboteur_Astonished</Name>
+	<TL>160</TL>
+	<TR>304</TR>
+	<BL>614</BL>
+	<BR>762</BR>
+</Texture1>
+<Texture2>
+	<Name>Saboteur_Blink</Name>
+	<TL>312</TL>
+	<TR>456</TR>
+	<BL>614</BL>
+	<BR>762</BR>
+</Texture2>
+<Texture3>
+	<Name>Saboteur_Gleeful</Name>
+	<TL>466</TL>
+	<TR>610</TR>
+	<BL>614</BL>
+	<BR>762</BR>
+</Texture3>
+<Texture4>
+	<Name>Saboteur_Happy</Name>
+	<TL>618</TL>
+	<TR>762</TR>
+	<BL>614</BL>
+	<BR>762</BR>
+</Texture4>
+<Texture5>
+	<Name>Saboteur_Neutral</Name>
+	<TL>770</TL>
+	<TR>914</TR>
+	<BL>614</BL>
+	<BR>762</BR>
+</Texture5>
+<Texture6>
+	<Name>Saboteur_Serious</Name>
+	<TL>920</TL>
+	<TR>1064</TR>
+	<BL>614</BL>
+	<BR>762</BR>
+</Texture6>
+<Texture7>
+	<Name>Saboteur_Suspicious</Name>
+	<TL>10</TL>
+	<TR>154</TR>
+	<BL>774</BL>
+	<BR>922</BR>
+</Texture7>
+<Texture8>
+	<Name>speechBubble_Left</Name>
+	<TL>258</TL>
+	<TR>302</TR>
+	<BL>978</BL>
+	<BR>1038</BR>
+</Texture8>
+<Texture9>
+	<Name>speechBubble_Right</Name>
+	<TL>451</TL>
+	<TR>514</TR>
+	<BL>978</BL>
+	<BR>1038</BR>
+</Texture9>
+<Texture10>
+	<Name>speechBubble_Middle</Name>
+	<TL>318</TL>
+	<TR>418</TR>
+	<BL>978</BL>
+	<BR>1038</BR>
+</Texture10>
+<Texture11>
+	<Name>bar</Name>
+	<TL>1395</TL>
+	<TR>1789</TR>
+	<BL>758</BL>
+	<BR>826</BR>
+</Texture11>
+<Texture12>
+	<Name>bar_locked</Name>
+	<TL>254</TL>
+	<TR>648</TR>
+	<BL>902</BL>
+	<BR>970</BR>
+</Texture12>
+<Texture13>
+	<Name>BowledOver_Bronze</Name>
+	<TL>660</TL>
+	<TR>788</TR>
+	<BL>480</BL>
+	<BR>608</BR>
+</Texture13>
+<Texture14>
+	<Name>BowledOver_Silver</Name>
+	<TL>936</TL>
+	<TR>1064</TR>
+	<BL>480</BL>
+	<BR>608</BR>
+</Texture14>
+<Texture15>
+	<Name>BowledOver_Gold</Name>
+	<TL>785</TL>
+	<TR>913</TR>
+	<BL>316</BL>
+	<BR>444</BR>
+</Texture15>
+<Texture16>
+	<Name>Default_Bronze</Name>
+	<TL>0</TL>
+	<TR>128</TR>
+	<BL>480</BL>
+	<BR>608</BR>
+</Texture16>
+<Texture17>
+	<Name>Default_Silver</Name>
+	<TL>132</TL>
+	<TR>260</TR>
+	<BL>480</BL>
+	<BR>608</BR>
+</Texture17>
+<Texture18>
+	<Name>Default_Gold</Name>
+	<TL>262</TL>
+	<TR>390</TR>
+	<BL>480</BL>
+	<BR>608</BR>
+</Texture18>
+<Texture19>
+	<Name>LightningRod_Bronze</Name>
+	<TL>795</TL>
+	<TR>923</TR>
+	<BL>184</BL>
+	<BR>312</BR>
+</Texture19>
+<Texture20>
+	<Name>LightningRod_Silver</Name>
+	<TL>923</TL>
+	<TR>1051</TR>
+	<BL>184</BL>
+	<BR>312</BR>
+</Texture20>
+<Texture21>
+	<Name>LightningRod_Gold</Name>
+	<TL>392</TL>
+	<TR>520</TR>
+	<BL>480</BL>
+	<BR>608</BR>
+</Texture21>
+<Texture22>
+	<Name>SpringChicken_Bronze</Name>
+	<TL>524</TL>
+	<TR>652</TR>
+	<BL>480</BL>
+	<BR>608</BR>
+</Texture22>
+<Texture23>
+	<Name>SpringChicken_Silver</Name>
+	<TL>923</TL>
+	<TR>1051</TR>
+	<BL>316</BL>
+	<BR>444</BR>
+</Texture23>
+<Texture24>
+	<Name>SpringChicken_Gold</Name>
+	<TL>798</TL>
+	<TR>926</TR>
+	<BL>480</BL>
+	<BR>608</BR>
+</Texture24>
+<Texture25>
+	<Name>MainMenu_Buttons_Help</Name>
+	<TL>1073</TL>
+	<TR>1294</TR>
+	<BL>675</BL>
+	<BR>762</BR>
+</Texture25>
+<Texture26>
+	<Name>MainMenu_Foodling</Name>
+	<TL>23</TL>
+	<TR>242</TR>
+	<BL>1780</BL>
+	<BR>2029</BR>
+</Texture26>
+<Texture27>
+	<Name>MainMenu_Foodling_Blink</Name>
+	<TL>247</TL>
+	<TR>466</TR>
+	<BL>1780</BL>
+	<BR>2029</BR>
+</Texture27>
+<Texture28>
+	<Name>MainMenu_Foodling_TransOut</Name>
+	<TL>471</TL>
+	<TR>690</TR>
+	<BL>1780</BL>
+	<BR>2029</BR>
+</Texture28>
+<Texture29>
+	<Name>loadingBG</Name>
+	<TL>1079</TL>
+	<TR>2039</TR>
+	<BL>16</BL>
+	<BR>656</BR>
+</Texture29>
+<Texture30>
+	<Name>loading1</Name>
+	<TL>1337</TL>
+	<TR>1561</TR>
+	<BL>840</BL>
+	<BR>904</BR>
+</Texture30>
+<Texture31>
+	<Name>loading2</Name>
+	<TL>1578</TL>
+	<TR>1802</TR>
+	<BL>848</BL>
+	<BR>912</BR>
+</Texture31>
+<Texture32>
+	<Name>loading3</Name>
+	<TL>1818</TL>
+	<TR>2042</TR>
+	<BL>832</BL>
+	<BR>896</BR>
+</Texture32>
+<Texture33>
+	<Name>Num_1</Name>
+	<TL>252</TL>
+	<TR>585</TR>
+	<BL>28</BL>
+	<BR>164</BR>
+</Texture33>
+<Texture34>
+	<Name>Num_2</Name>
+	<TL>27</TL>
+	<TR>360</TR>
+	<BL>28</BL>
+	<BR>164</BR>
+</Texture34>
+<Texture35>
+	<Name>Num_3</Name>
+	<TL>459</TL>
+	<TR>792</TR>
+	<BL>28</BL>
+	<BR>164</BR>
+</Texture35>
+<Texture36>
+	<Name>escape</Name>
+	<TL>27</TL>
+	<TR>360</TR>
+	<BL>172</BL>
+	<BR>308</BR>
+</Texture36>
+<Texture37>
+	<Name>MainMenu</Name>
+	<TL>1080</TL>
+	<TR>2040</TR>
+	<BL>1216</BL>
+	<BR>1856</BR>
+</Texture37>
+<Texture38>
+	<Name>Options_Buttons_Credits</Name>
+	<TL>16</TL>
+	<TR>287</TR>
+	<BL>313</BL>
+	<BR>455</BR>
+</Texture38>
+<Texture39>
+	<Name>Options_Buttons_Intro</Name>
+	<TL>360</TL>
+	<TR>796</TR>
+	<BL>193</BL>
+	<BR>284</BR>
+</Texture39>
+<Texture40>
+	<Name>Options_Buttons_SoundOff</Name>
+	<TL>796</TL>
+	<TR>1025</TR>
+	<BL>35</BL>
+	<BR>106</BR>
+</Texture40>
+<Texture41>
+	<Name>Options_Buttons_SoundOn</Name>
+	<TL>796</TL>
+	<TR>1025</TR>
+	<BL>107</BL>
+	<BR>178</BR>
+</Texture41>
+<Texture42>
+	<Name>Options_Buttons_Story</Name>
+	<TL>300</TL>
+	<TR>728</TR>
+	<BL>338</BL>
+	<BR>446</BR>
+</Texture42>
+<Texture43>
+	<Name>MainMenu_Buttons_Help_Pressed</Name>
+	<TL>13</TL>
+	<TR>234</TR>
+	<BL>954</BL>
+	<BR>1041</BR>
+</Texture43>
+<Texture44>
+	<Name>Options_Buttons_Credits_Pressed</Name>
+	<TL>1065</TL>
+	<TR>1336</TR>
+	<BL>769</BL>
+	<BR>911</BR>
+</Texture44>
+<Texture45>
+	<Name>Options_Buttons_Intro_Pressed</Name>
+	<TL>1316</TL>
+	<TR>1752</TR>
+	<BL>664</BL>
+	<BR>755</BR>
+</Texture45>
+<Texture46>
+	<Name>Options_Buttons_SoundOff_Pressed</Name>
+	<TL>1804</TL>
+	<TR>2033</TR>
+	<BL>762</BL>
+	<BR>833</BR>
+</Texture46>
+<Texture47>
+	<Name>Options_Buttons_SoundOn_Pressed</Name>
+	<TL>1804</TL>
+	<TR>2033</TR>
+	<BL>674</BL>
+	<BR>745</BR>
+</Texture47>
+<Texture48>
+	<Name>Options_Buttons_Story_Pressed</Name>
+	<TL>235</TL>
+	<TR>663</TR>
+	<BL>1050</BL>
+	<BR>1158</BR>
+</Texture48>
+<Texture49>
+	<Name>PauseMenu_Buttons_Resume_Pressed</Name>
+	<TL>1719</TL>
+	<TR>2019</TR>
+	<BL>1095</BL>
+	<BR>1194</BR>
+</Texture49>
+<Texture50>
+	<Name>Hud_Menu</Name>
+	<TL>527</TL>
+	<TR>582</TR>
+	<BL>974</BL>
+	<BR>1021</BR>
+</Texture50>
+<Texture51>
+	<Name>Hud_Menu_Pressed</Name>
+	<TL>591</TL>
+	<TR>646</TR>
+	<BL>974</BL>
+	<BR>1021</BR>
+</Texture51>
+<Texture52>
+	<Name>BigBubble_ArrowLeft</Name>
+	<TL>5</TL>
+	<TR>59</TR>
+	<BL>1139</BL>
+	<BR>1166</BR>
+</Texture52>
+<Texture53>
+	<Name>BigBubble_ArrowRight</Name>
+	<TL>173</TL>
+	<TR>226</TR>
+	<BL>1139</BL>
+	<BR>1166</BR>
+</Texture53>
+<Texture54>
+	<Name>BigBubble_Bottom</Name>
+	<TL>73</TL>
+	<TR>151</TR>
+	<BL>1174</BL>
+	<BR>1194</BR>
+</Texture54>
+<Texture55>
+	<Name>BigBubble_BottomLeft</Name>
+	<TL>5</TL>
+	<TR>59</TR>
+	<BL>1174</BL>
+	<BR>1194</BR>
+</Texture55>
+<Texture56>
+	<Name>BigBubble_BottomRight</Name>
+	<TL>173</TL>
+	<TR>226</TR>
+	<BL>1174</BL>
+	<BR>1194</BR>
+</Texture56>
+<Texture57>
+	<Name>BigBubble_Left</Name>
+	<TL>5</TL>
+	<TR>59</TR>
+	<BL>1083</BL>
+	<BR>1126</BR>
+</Texture57>
+<Texture58>
+	<Name>BigBubble_Right</Name>
+	<TL>173</TL>
+	<TR>226</TR>
+	<BL>1083</BL>
+	<BR>1126</BR>
+</Texture58>
+<Texture59>
+	<Name>BigBubble_Middle</Name>
+	<TL>81</TL>
+	<TR>158</TR>
+	<BL>1083</BL>
+	<BR>1126</BR>
+</Texture59>
+<Texture60>
+	<Name>BigBubble_Top</Name>
+	<TL>74</TL>
+	<TR>152</TR>
+	<BL>1045</BL>
+	<BR>1067</BR>
+</Texture60>
+<Texture61>
+	<Name>BigBubble_TopLeft</Name>
+	<TL>6</TL>
+	<TR>60</TR>
+	<BL>1045</BL>
+	<BR>1067</BR>
+</Texture61>
+<Texture62>
+	<Name>BigBubble_TopRight</Name>
+	<TL>174</TL>
+	<TR>227</TR>
+	<BL>1045</BL>
+	<BR>1067</BR>
+</Texture62>
+<Texture63>
+	<Name>sides</Name>
+	<TL>1077</TL>
+	<TR>2037</TR>
+	<BL>918</BL>
+	<BR>938</BR>
+</Texture63>
+<Texture64>
+	<Name>HSBar</Name>
+	<TL>21</TL>
+	<TR>808</TR>
+	<BL>1203</BL>
+	<BR>1277</BR>
+</Texture64>
+<Texture65>
+	<Name>Bar_Collectors</Name>
+	<TL>34</TL>
+	<TR>677</TR>
+	<BL>1287</BL>
+	<BR>1338</BR>
+</Texture65>
+<Texture66>
+	<Name>Bar_Consumers</Name>
+	<TL>52</TL>
+	<TR>652</TR>
+	<BL>1351</BL>
+	<BR>1402</BR>
+</Texture66>
+<Texture67>
+	<Name>Bar_Runners</Name>
+	<TL>53</TL>
+	<TR>658</TR>
+	<BL>1415</BL>
+	<BR>1466</BR>
+</Texture67>
+<Texture68>
+	<Name>Bar_Scores</Name>
+	<TL>36</TL>
+	<TR>675</TR>
+	<BL>1479</BL>
+	<BR>1530</BR>
+</Texture68>
+<Texture69>
+	<Name>Hud</Name>
+	<TL>1078</TL>
+	<TR>2038</TR>
+	<BL>1869</BL>
+	<BR>2035</BR>
+</Texture69>
+<Texture70>
+	<Name>MainMenu_Buttons_Achievements</Name>
+	<TL>164</TL>
+	<TR>671</TR>
+	<BL>770</BL>
+	<BR>894</BR>
+</Texture70>
+<Texture71>
+	<Name>MainMenu_Buttons_Achievements_Pressed</Name>
+	<TL>1538</TL>
+	<TR>2045</TR>
+	<BL>962</BL>
+	<BR>1086</BR>
+</Texture71>
+<Texture72>
+	<Name>MainMenu_Buttons_HighScores</Name>
+	<TL>1094</TL>
+	<TR>1530</TR>
+	<BL>966</BL>
+	<BR>1082</BR>
+</Texture72>
+<Texture73>
+	<Name>MainMenu_Buttons_HighScores_Pressed</Name>
+	<TL>1253</TL>
+	<TR>1689</TR>
+	<BL>1094</BL>
+	<BR>1210</BR>
+</Texture73>
+<Texture74>
+	<Name>MainMenu_Buttons_Options_Pressed</Name>
+	<TL>677</TL>
+	<TR>1051</TR>
+	<BL>780</BL>
+	<BR>884</BR>
+</Texture74>
+<Texture75>
+	<Name>MainMenu_Buttons_Options</Name>
+	<TL>677</TL>
+	<TR>1051</TR>
+	<BL>908</BL>
+	<BR>1012</BR>
+</Texture75>
+<Texture76>
+	<Name>MainMenu_Buttons_Play_Pressed</Name>
+	<TL>692</TL>
+	<TR>1037</TR>
+	<BL>1022</BL>
+	<BR>1154</BR>
+</Texture76>
+<Texture77>
+	<Name>MainMenu_Buttons_Play</Name>
+	<TL>724</TL>
+	<TR>1069</TR>
+	<BL>1310</BL>
+	<BR>1442</BR>
+</Texture77>

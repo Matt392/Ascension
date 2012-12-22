@@ -1,0 +1,70 @@
+<General>
+	<TechniqueCount>3</TechniqueCount>
+</General>
+<Technique_0>
+	<Name>GUI</Name>
+  <VertexShader>Shaders/GUI.ascvs</VertexShader>
+  <PixelShader>Shaders/GUI.ascps</PixelShader>
+  <AttributeCount>5</AttributeCount>
+  <Attribute_0>m_vPosition</Attribute_0>
+  <Attribute_1>m_vColour</Attribute_1>
+  <Attribute_2>m_vUVs</Attribute_2>
+  <Attribute_3>m_vTransRot</Attribute_3>
+  <Attribute_4>m_vScale</Attribute_4>
+  <AttributeSize_0>4</AttributeSize_0>
+  <AttributeSize_1>4</AttributeSize_1>
+  <AttributeSize_2>2</AttributeSize_2>
+  <AttributeSize_3>3</AttributeSize_3>
+  <AttributeSize_4>2</AttributeSize_4>
+  <UniformCount>1</UniformCount>
+  <Uniform_0>m_fScreenRatio</Uniform_0>
+  <UniformType_0>float</UniformType_0>
+  <TextureSamplerCount>1</TextureSamplerCount>
+	<TextureSampler_1>m_sTexture</TextureSampler_1>
+</Technique_0>
+<Technique_1>
+  <Name>Font</Name>
+  <VertexShader>Shaders/GUI.ascvs</VertexShader>
+  <PixelShader>Shaders/Font.ascps</PixelShader>
+  <AttributeCount>5</AttributeCount>
+  <Attribute_0>m_vPosition</Attribute_0>
+  <Attribute_1>m_vColour</Attribute_1>
+  <Attribute_2>m_vUVs</Attribute_2>
+  <Attribute_3>m_vTransRot</Attribute_3>
+  <Attribute_4>m_vScale</Attribute_4>
+  <AttributeSize_0>4</AttributeSize_0>
+  <AttributeSize_1>4</AttributeSize_1>
+  <AttributeSize_2>2</AttributeSize_2>
+  <AttributeSize_3>3</AttributeSize_3>
+  <AttributeSize_4>2</AttributeSize_4>
+  <UniformCount>1</UniformCount>
+  <Uniform_0>m_fScreenRatio</Uniform_0>
+  <UniformType_0>float</UniformType_0>
+  <TextureSamplerCount>1</TextureSamplerCount>
+  <TextureSampler_1>m_sTexture</TextureSampler_1>
+</Technique_1>
+<Technique_2>
+  <Name>BasicSprite</Name>
+  <VertexShader>Shaders/BasicSprite.ascvs</VertexShader>
+  <PixelShader>Shaders/BasicSprite.ascps</PixelShader>
+  <AttributeCount>5</AttributeCount>
+  <Attribute_0>m_vPosition</Attribute_0>
+  <Attribute_1>m_vColour</Attribute_1>
+  <Attribute_2>m_vUVs</Attribute_2>
+  <Attribute_3>m_vTransRot</Attribute_3>
+  <Attribute_4>m_vScale</Attribute_4>
+  <AttributeSize_0>4</AttributeSize_0>
+  <AttributeSize_1>4</AttributeSize_1>
+  <AttributeSize_2>2</AttributeSize_2>
+  <AttributeSize_3>3</AttributeSize_3>
+  <AttributeSize_4>2</AttributeSize_4>
+  <UniformCount>3</UniformCount>
+  <Uniform_0>m_mView</Uniform_0>
+  <Uniform_1>m_mProjection</Uniform_1>
+  <Uniform_2>m_fScreenRatio</Uniform_2>
+  <UniformType_0>mat4</UniformType_0>
+  <UniformType_1>mat4</UniformType_1>
+  <UniformType_2>float</UniformType_2>
+  <TextureSamplerCount>1</TextureSamplerCount>
+  <TextureSampler_1>m_sTexture</TextureSampler_1>
+</Technique_2>

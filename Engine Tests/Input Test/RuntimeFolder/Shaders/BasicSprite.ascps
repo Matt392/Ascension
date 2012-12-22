@@ -1,0 +1,25 @@
+//Vertecies
+#define X 0
+#define Y 1
+#define Z 2
+#define W 3
+//Colours
+#define R 0
+#define G 1
+#define B 2
+#define A 3
+
+uniform sampler2D m_sTexture;
+
+varying mediump vec2 m_vFinalUV;
+varying mediump vec4 m_vFinalColour;
+
+void main (void)
+{
+	gl_FragColor = texture2D( m_sTexture, m_vFinalUV);
+	//gl_FragColor *= m_vFinalColour;
+
+
+	//Maybe use this at a later date
+	//gl_FragColor *= m_vFinalColour;
+}

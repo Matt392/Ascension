@@ -1,0 +1,24 @@
+<General>
+	<SegmentCount>1</SegmentCount>
+	<Sprite>Anim Sprites\Fingerling.animspr</Sprite>
+	<Dynamic>true</Dynamic>
+	<LockRotation>true</LockRotation>
+	<Density>2</Density>
+	<Friction>0.0025</Friction>
+	<Restitution>0</Restitution>
+</General>
+<Segment_0>
+	<Type>Circle</Type>
+	<Radius>0.5</Width>
+	<OffsetX>0</OffsetX>
+	<OffsetY>0.15</OffsetY>
+	<Rotation>0</Rotation>
+</Segment_0>
+<Segment_1>
+	<Type>Box</Type>
+	<Width>0.1</Width>
+	<Height>0.1</Height>
+	<OffsetX>0</OffsetX>
+	<OffsetY>0</OffsetY>
+	<Rotation>0</Rotation>
+</Segment_1>

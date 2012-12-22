@@ -1,0 +1,36 @@
+<General>
+	<Name>Prefab2</Name>
+	<ComponentCount>1</ComponentCount>
+	<PowerUpCount>1</PowerUpCount>
+	<DodadCount>1</DodadCount>
+	<LengthLeft>2</LengthLeft>
+	<LengthRight>2</LengthRight>
+	<StartX>-1</StartX>
+	<StartY>-4</StartY>
+</General>
+<Links>
+	<Count>2</Count>
+	<Link_0>Prefab1</Link_0>
+	<Link_1>Prefab2</Link_1>
+	<Link_1>Prefab4</Link_1>
+</Links>
+<Component_0>
+	<Name>Component3</Name>
+	<PosX>0</PosX>
+	<PosY>0</PosY>
+</Component_0>
+<PowerUp_0>
+	<Name>NULL</Name>
+	<PosX>0</PosX>
+	<PosY>-2</PosY>
+	<ExclusionCount>1</ExclusionCount>
+	<Exclusion_0>PowerUp2</Exclusion_0>
+	<Chance>1</Chance>
+</PowerUp_0>
+<Dodad_0>
+	<PosX>1</PosX>
+	<PosY>0</PosY>
+	<ExclusionCount>0</ExclusionCount>
+	<Exclusion_0>Dodad2</Exclusion_0>
+	<Chance>1</Chance>
+</Dodad_0>

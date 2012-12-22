@@ -1,0 +1,41 @@
+//Vertecies
+#define X 0
+#define Y 1
+#define Z 2
+#define W 3
+//Colours
+#define R 0
+#define G 1
+#define B 2
+#define A 3
+
+uniform sampler2D m_sTexture;
+
+varying mediump vec2 m_vFinalUV;
+varying mediump vec4 m_vFinalColour;
+varying mediump vec4 m_vFinalColour2;
+
+void main (void)
+{
+	//Only the alpha values will be kept
+	gl_FragColor = texture2D( m_sTexture, m_vFinalUV);
+    
+	//Set the font colour
+    if(gl_FragColor[R] == 1.0 && gl_FragColor[G] == 1.0 && gl_FragColor[B] == 1.0)
+    {
+        gl_FragColor[R] = m_vFinalColour[R];
+        gl_FragColor[G] = m_vFinalColour[G];
+        gl_FragColor[B] = m_vFinalColour[B];
+        gl_FragColor[A] *= m_vFinalColour[A];
+    }
+    else
+    {
+        highp float fGradient = gl_FragColor[G];
+        
+        gl_FragColor[R] = m_vFinalColour2[R] * fGradient;
+        gl_FragColor[G] = m_vFinalColour2[G] * fGradient;
+        gl_FragColor[B] = m_vFinalColour2[B] * fGradient;
+        gl_FragColor[A] *= m_vFinalColour2[A] * fGradient;
+    }
+	
+}
